@@ -38,7 +38,9 @@ acceleration.
 
 The system state evolves according to:
 
-$$x_{k+1} = \begin{bmatrix} 1 & 0 \\ 0 & e^{-\Delta t / \tau} \end{bmatrix} x_k + \begin{bmatrix} -\frac{\Delta t}{Q_n} \\ R_1(1 - e^{-\Delta t / \tau}) \end{bmatrix} I_k$$
+$$
+x_{k+1} = \begin{bmatrix} 1 & 0 \\ 0 & e^{-\Delta t / \tau} \end{bmatrix} x_k + \begin{bmatrix} -\frac{\Delta t}{Q_n} \\ R_1(1 - e^{-\Delta t / \tau}) \end{bmatrix} I_k
+$$
 
 Where the state vector $x$ contains:
 * $x[0] = SoC$ (State of Charge)
@@ -179,4 +181,5 @@ Electrical Engineering Student
 ## 📚 License
 
 Licensed under the **MIT License**.
+
 
