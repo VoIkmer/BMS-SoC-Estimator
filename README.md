@@ -35,7 +35,6 @@ acceleration.
 ## ⚙️ Mathematical Modeling
 
 ### 1. State Space Model (Process)
-
 The system state evolves according to:
 
 $$
@@ -181,5 +180,6 @@ Electrical Engineering Student
 ## 📚 License
 
 Licensed under the **MIT License**.
+
 
 
