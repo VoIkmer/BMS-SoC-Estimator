@@ -168,8 +168,8 @@ This is the **relaxation effect** caused by the polarization of Lithium ions. It
 ## 🧑‍💻 Author
 
 **Carlos Eduardo**\
-Electrical Engineering Student \| Embedded Systems & Control Theory
-Enthusiast
+Electrical Engineering Student 
+
 
 📧 Email: cguimaraesbarbosa03@gmail.com\
 🌐 GitHub: https://github.com/VoIkmer
@@ -179,3 +179,4 @@ Enthusiast
 ## 📚 License
 
 Licensed under the **MIT License**.
+
