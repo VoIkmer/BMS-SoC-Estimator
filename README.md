@@ -169,14 +169,14 @@ This is the **relaxation effect** caused by the polarization of Lithium ions. It
 
 ## 🧑‍💻 Author
 
-**Carlos Eduardo**\
-Electrical Engineering Student 
+**Carlos Eduardo**  
+Electrical Engineering Student — UFBA
 
+- Email: cguimaraesbarbosa03@gmail.com
+- GitHub: [VoIkmer](https://github.com/VoIkmer)
+- LinkedIn: [carl0sedu](https://www.linkedin.com/in/carl0sedu/)
 
-📧 Email: cguimaraesbarbosa03@gmail.com\
-🌐 GitHub: https://github.com/VoIkmer
-
-------------------------------------------------------------------------
+---
 
 ## 📚 License
 
